@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../CIS367"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "evanyu10.github.io"
+	}
+}
